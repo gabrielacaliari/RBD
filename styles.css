@@ -20,7 +20,7 @@ p{
     text-align: justify ;
 }
 
-.zando{
+.ZANDO{
     color: white;
     display: flex;
   
@@ -73,6 +73,6 @@ gap: 10px;
     position: relative;
     z-index: -1;
     top: -40px;
-    left: 200px;
+    left: 400px;
     width: 200px;
 }

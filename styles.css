@@ -1,0 +1,78 @@
+body{
+    color:white;
+    background: black;
+    margin: 1px;
+    margin-bottom: 30px;
+    
+}
+header{
+    font-size: 80px;
+    color: red;
+    display: flex;
+    border-bottom: solid 2px white;
+    position: relative;
+    margin: 20px;
+    padding: 0px;
+    font-family: "Danfo", serif;
+}
+
+p{
+    text-align: justify ;
+}
+
+.zando{
+    color: white;
+    display: flex;
+  
+}
+
+.entrada{
+    background: rgb(248, 124, 124);
+    margin: 20px;
+    padding: 20px;
+    display: flex;
+    font-size: 30px;
+    font-family: "Bebas Neue", sans-serif;
+}
+
+.primeiro-ep{
+    margin-right: 50px;
+}
+
+.descricao {
+    font-size: 20px;
+}
+
+img{
+  height:200px;
+}
+
+.clipes{
+display: flex;
+overflow-x: auto;
+gap: 10px;
+}
+
+.outros{
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 30px;
+    font-family: "Bebas Neue", sans-serif;
+}
+.outros img{
+    opacity: 0.5;
+}
+
+.outros img:hover{
+    opacity: 1.0;
+    border: solid 3px red;
+    border-radius: 20px;
+}
+
+.logo {
+    position: relative;
+    z-index: -1;
+    top: -40px;
+    left: 500px;
+    width: 200px;
+}
